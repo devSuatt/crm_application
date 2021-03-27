@@ -18,11 +18,11 @@
 
 <hr>
 
- Orders history of user who entered with customer user role:
+ * Orders history of user who entered with customer user role:
  
  ![orders](https://user-images.githubusercontent.com/81221395/112731255-28822580-8f47-11eb-8859-b3f4525caf98.PNG)
 
- Graphs of statistics of some data on home page of user who entered with admin user role:
+ * Graphs of statistics of some data on home page of user who entered with admin user role:
  
  ![graphic](https://user-images.githubusercontent.com/81221395/112731340-a34b4080-8f47-11eb-9d3c-7ceefb5a4086.PNG)
  
