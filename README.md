@@ -2,7 +2,7 @@
 # crm_application
 <h3> Developed using laravel and mysql db </h3>
 
-<strong>Note:</strong> I did this project during my summer internship when I was in second grade in 2019.
+<strong>Note:</strong> I developed this project during my summer internship when I was in second grade in 2019.
 
 * After authentication, different screens appear according to the role of the user by providing authorization.
 <br>
